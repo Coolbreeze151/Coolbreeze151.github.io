@@ -11,10 +11,32 @@ html,
 body {
     width: 100%;
     height: 100%;
+
 }
 
 body {
     font-family: 'Source Sans Pro', 'Helvetica Neue', Helvetica, Arial, sans-serif;
+}
+
+.exchangetext {
+    text-align:justify;
+    font-family: "OpenSans",sans-serif !important;
+    font-size: 1.06em;
+
+}
+
+.noctext {
+    text-align:justify;
+    font-family: "OpenSans",sans-serif !important;
+    font-size: 1.06em;
+
+}
+
+.stepstext {
+    text-align:justify;
+    font-family: "OpenSans",sans-serif !important;
+    font-size: 1.06em;
+
 }
 
 .text-vertical-center {
@@ -199,7 +221,7 @@ hr.small {
     position: relative;
     display: table;
     width: 100%;
-    height: 90%;
+    height: 75%;
     -webkit-background-size: cover;
     background: url(../img/osm2.jpg) no-repeat center center scroll;
     -moz-background-size: cover;
@@ -212,7 +234,7 @@ hr.small {
     position: relative;
     display: table;
     width: 100%;
-    height: 79%;
+    height: 75%;
     -webkit-background-size: cover;
     background: url(../img/MakanMakerHeader.jpg) no-repeat center center scroll;
     -moz-background-size: cover;
